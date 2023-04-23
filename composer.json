@@ -1,5 +1,5 @@
 {
-  "name": "ksfraser/imdb",
+  "name": "ksfraser/imdb-lookup",
   "description": "A set of classes for working with IMDB to get movie info.",
   "type": "library",
   "authors": [
